@@ -2,11 +2,11 @@
 ## Front matter
 lang: ru-RU
 title: 
-        Лабораторная работа 5
+        Лабораторная работа 1
 subtitle: Анализ файловой системы Linux. Команды для работы с файлами и каталогами
 author: Timofey E. Artamonov
 institute: RUDN University, Moscow, Russian Federation
-date: April 30^th^ 2022
+date: February 10^th^ 2024
 
 ## Formatting
 marp: true
