@@ -6,20 +6,7 @@ title:
 subtitle: Анализ файловой системы Linux. Команды для работы с файлами и каталогами
 author: Timofey E. Artamonov
 institute: RUDN University, Moscow, Russian Federation
-date: February 10^th^ 2024
-
-## Formatting
-marp: true
-toc: false
-slide_level: 2
-theme: metropolis
-header-includes: 
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
- - '\makeatletter'
- - '\beamer@ignorenonframefalse'
- - '\makeatother'
-aspectratio: 43
-section-titles: true
+date: February 10^th 2024
 
 ---
 
