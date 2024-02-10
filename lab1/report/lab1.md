@@ -23,63 +23,63 @@ author: "Артамонов Тимофей Евгеньевич"
 
 Вспомнили как можно просмотреть историю коммитов. (рис. 2)
 
-![image](images/1.4.2.PNG){рис. 2}
+![image](https://github.com/Wenins/MatMod/assets/104139992/44138abb-3267-4cf7-946d-9451a36066ce){рис. 2}
 
 Вспомнили как можно перемещаться между версиями. (рис. 3)
 
-![image](images/1.4.3.PNG){рис. 3}
+![image](https://github.com/Wenins/MatMod/assets/104139992/c6e44aa0-f05f-47f2-b5eb-70e29962bb2b){рис. 3}
 
 Дали теги двум версиям, чтобы не потерять их. (рис. 4)
 
-![image](images/1.4.5.PNG){рис. 4}
+![image](https://github.com/Wenins/MatMod/assets/104139992/366ed15c-9cd9-4b90-b1f9-4f2360ef3d30){рис. 4}
 
 Удалили нежелательный коммит. (рис. 5)
 
-![image](images/1.4.6.PNG){рис. 5}
+![image](https://github.com/Wenins/MatMod/assets/104139992/127c7483-0846-43fe-8067-88800cb38a0b){рис. 5}
 
 Просмотрели историю коммитов(даже удаленных). (рис. 6)
 
-![image](images/1.4.7.PNG){рис. 6}
+![image](https://github.com/Wenins/MatMod/assets/104139992/a97151ee-b55c-42b0-93e8-cbe2b441f14f){рис. 6}
 
 Вместо создания нового коммита и удаления старого, просто переименовали старый. (рис. 7)
 
-![image](images/1.4.8.PNG){рис. 7}
+![image](https://github.com/Wenins/MatMod/assets/104139992/c125035d-f8ca-466e-8e06-8dc209982248){рис. 7}
 
 При открытии файла index открывается сайт с окошком Hello, World! (рис. 8)
 
-![image](images/1.4.9.PNG){рис. 8}
+![image](https://github.com/Wenins/MatMod/assets/104139992/0a26d71b-8f2d-46ec-b601-af63e750651d){рис. 8}
 
 Просмотрели файлы конфигурации репозитория. (рис. 9)
 
-![image](images/1.4.10.PNG){рис.9}
+![image](https://github.com/Wenins/MatMod/assets/104139992/06bb7c21-56ff-4497-9ab9-b8d534e94e60){рис.9}
 
 Создали новую ветку style. (рис. 10)
 
-![image](images/1.4.11.PNG){рис. 10}
+![image](https://github.com/Wenins/MatMod/assets/104139992/828920f2-25cd-4959-a651-0a4939a9461a){рис. 10}
 
 Видно что в разных ветках один и тот же файл отличается. (рис. 11)
 
-![image](images/1.4.12.PNG){рис. 11}
+![image](https://github.com/Wenins/MatMod/assets/104139992/d8169bf1-05d6-40d3-aa70-b460c456b467){рис. 11}
 
 Видно графическое представление того, что происходит в репозиторие. (рис. 12)
 
-![image](images/1.4.13.PNG){рис. 12}
+![image](https://github.com/Wenins/MatMod/assets/104139992/aeb0733d-83b2-4ebf-ad31-55fdb37f9ae5){рис. 12}
 
 Графическое представление конфликта, который мы создали. (рис. 13)
 
-![image](images/1.4.14.PNG){рис. 13}
+![image](https://github.com/Wenins/MatMod/assets/104139992/0fb566a4-5b4a-47c1-9d09-42013aad9a75){рис. 13}
 
 Результат работы команды rebase. (рис. 14)
 
-![image](images/1.4.15.PNG){рис. 14}
+![image](https://github.com/Wenins/MatMod/assets/104139992/ec7a9088-5d93-478c-8a12-406834b92dbf){рис. 14}
 
 Склонировали наш репозиторий (рис. 15)
 
-![image](images/1.4.16.PNG){рис. 15}
+![image](https://github.com/Wenins/MatMod/assets/104139992/c17cf4cd-8a75-4d96-83ba-b0c75f6ba2d4){рис. 15}
 
 Сделали pull и получили данные из оригинального репозитория в клонированном. (рис. 16)
 
-![image](images/1.4.17.PNG){рис. 16}
+![image](https://github.com/Wenins/MatMod/assets/104139992/3580ea2c-d4a0-4777-8c74-31632bd27442){рис. 16}
 
 # Выводы
 
